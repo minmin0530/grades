@@ -1,0 +1,29 @@
+.input_account_1 {
+    width: 244px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.input_account_2 {
+    width: 568px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.input_account_1 input {
+    width: 154px;
+}
+.input_account_1 select {
+    width: 154px;
+}
+
+.input_account_2 input {
+    width: 154px;
+    margin-right: 40px;
+}
+
+
+.input_account_label {
+    width: 90px;
+}
